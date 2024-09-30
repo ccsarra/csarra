@@ -173,10 +173,10 @@ interests as me!
 07.23.24 <br>
 A fun day where we met our advisors for the first time and cleaned our room! <br>
 </th>
-<td> <img src="ICT/brigada.jpg" alt="brig." width="150px" heigth="140px"></img> </td>
-<td> <img src="ICT/brigada me.jpg" alt="brig1." width="150x" heigth="14px"></img> </td>
-<td> <img src="ICT/brigada 2.jpg" alt="brig2." width="150px" heigth="140px"></img> </td>
-<td> <img src="ICT/brigada 3.jpg" alt="brig3." width="250px" heigth="200px"></img> </td>
+<td> <img src="ICT/brigada.jpg" alt="brig." width="150px" heigth="140px"> </td>
+<td> <img src="ICT/brigada me.jpg" alt="brig1." width="150x" heigth="14px"> </td>
+<td> <img src="ICT/brigada 2.jpg" alt="brig2." width="150px" heigth="140px"> </td>
+<td> <img src="ICT/brigada 3.jpg" alt="brig3." width="250px" heigth="200px"></td>
 </tr>
 </table>
 
@@ -187,7 +187,7 @@ A fun day where we met our advisors for the first time and cleaned our room! <br
 I saw my friends again during the first day of Grade 9! We met new
 teachers, and new classmates in Fairness! <br>
 </th>
-<td align="center"> <img src="ICT/first day.jpg" alt="f.day" width="250px" heigth="200px"></img> </td>
+<td align="center"> <img src="ICT/first day.jpg" alt="f.day" width="250px" heigth="200px"></td>
 </tr>
 </table>
 
@@ -198,7 +198,7 @@ teachers, and new classmates in Fairness! <br>
 a group performance task where we had to do a human simulation
 of the respiratory and circulatory system! It was so so fun! 
 </th>
-<td align="center"> <img src="ICT/sci human.jpg" alt="sci.day"width="200x" heigth="90px"></img> </td>
+<td align="center"> <img src="ICT/sci human.jpg" alt="sci.day"width="200x" heigth="90px"> </td>
 </tr>
 </table>
 
@@ -208,7 +208,7 @@ of the respiratory and circulatory system! It was so so fun!
 08.26.24 <br>
 Celebration of LPSci's 15th birthday!
 </th>
-<td align="center"> <img src="ICT/foundation day.jpg" alt="fd.day" width="250px" heigth="200px"></img> </td>
+<td align="center"> <img src="ICT/foundation day.jpg" alt="fd.day" width="250px" heigth="200px"></td>
 </tr>
 </table>
 
@@ -228,9 +228,9 @@ We had a debate against each other in Filipino! Super nerve-wracking!
 a compilation of pics I submitted during async classes! <br>
 </th>
 </th>
-<td align="center"> <img src="ICT/async.jpg" width="250px" heigth="200px"></img> </td>
-<td align="center"> <img src="ICT/async 1.jpg" width="250px" heigth="200px"></img> </td>
-<td align="center"> <img src="ICT/async 2.jpg" width="250px" heigth="200px"></img> </td>
+<td align="center"> <img src="ICT/async.jpg" width="250px" heigth="200px"> </td>
+<td align="center"> <img src="ICT/async 1.jpg" width="250px" heigth="200px"> </td>
+<td align="center"> <img src="ICT/async 2.jpg" width="250px" heigth="200px"></td>
 </tr>
 <tr>
 <td align="center"> <img src="ICT/async 3.jpg" width="250px" heigth="200px"> </td>
